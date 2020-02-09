@@ -1,2 +1,2 @@
 # Print welcome message.
-print("Welcome to Python pogramming.")
+print("Welcome to Python pogramming.\n")
